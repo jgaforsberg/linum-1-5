@@ -2,6 +2,9 @@
 
 #include "main.h"
 
+/*
+Det här är också en kommentar
+*/
 
 int main(int argc, char *argv[])
 {
