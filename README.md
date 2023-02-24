@@ -1,2 +1,2 @@
-# liUM1_test
+# simple GIT test project
 Ok
